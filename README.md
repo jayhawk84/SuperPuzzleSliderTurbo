@@ -31,4 +31,4 @@ The idea of a Puzzle 15 is that a square image is split into a 4 X 4 grid of six
 ## <div align="center">PROTOTYPE</div>
 [(Table of contents)](#prototype)
 ![PROTOTYPE](https://github.com/jayhawk84/SuperPuzzleSliderTurbo/blob/master/PuzzleMedia/Prototype.PNG)
-#### <div align="center"><a href="https://ojbh74.axshare.com/#id=ithaj4&p=page_1" targe="_blank">Interactive Axure Prototype (link)</a></div>
+#### <div align="center"><a href="https://ojbh74.axshare.com/#id=ithaj4&p=page_1" target="_blank">Interactive Axure Prototype (link)</a></div>
