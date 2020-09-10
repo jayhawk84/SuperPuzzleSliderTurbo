@@ -21,7 +21,7 @@ The concept is a variation on the old 15-puzzle sliding piece game, where a squa
 ## <div align="center">WHY</div>
 [(Table of contents)](#table-of-contents)
 
-I used to play a lot of board games with my siblings when we were younger.  Sometimes, though, I wanted to play my own game.  Before I got a game boy, that meant something like a Puzzle 15 would have to suffice.  I have fond memories of playing them, and I thought it would be a lot of fun to build the game using C# for a web application.
+I used to play a lot of board games with my siblings when we were younger.  Sometimes, though, I wanted to play my own game.  Before I got a game boy, that meant something like a Puzzle 15 would have to suffice.  I have fond memories of playing them, and I thought it would be a lot of fun to build the game using Visual Studio and C# to create a web application.
 
 ## <div align="center">IDEA</div>
 [(Table of contents)](#table-of-contents)
