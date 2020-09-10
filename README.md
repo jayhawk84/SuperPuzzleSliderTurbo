@@ -14,9 +14,10 @@ The concept is a variation on the old 15-puzzle sliding piece game, where a squa
 3) [Wire-Frame Desktop](#desktop)
 4) [Wire-Frame Mobile](#mobile)
 5) [Entity Relationship Diagram (ERD) (forthcoming)]
-6) [User Stories/Req/UML (forthcoming)]
-7) [Testing (forthcoming)]
-8) [Prototype](#prototype)
+6) [User Stories](#use-cases)
+7) [Req/UML (forthcoming)]
+8) [Testing (forthcoming)]
+9) [Prototype](#prototype)
 
 ## <div align="center">WHY</div>
 [(Table of contents)](#table-of-contents)
@@ -39,6 +40,12 @@ This is how the layout on desktop would look.  The player could show/hide the fi
 
 The mobile layout would be similar to the desktop in that the buttons would all still be there, but they wouldn't be as large or wrap the center puzzle.  Once selecting start, the puzzle would be the primary focus in center of viewscreen.
 ![WIREFRAME_MOBILE](https://github.com/jayhawk84/SuperPuzzleSliderTurbo/blob/master/PuzzleMedia/SPST%20mobile.jpg)
+
+## <div align="center">USE CASES</div>
+[(Table of contents)](#table-of-contents)
+1. As an anonymous user, I want to be able to play the game without having to login or register.
+2. As a user, I want to be able to cycle through different images if I do not like the initial image and pick a different one to slide.
+3. As a user, I would like to have varying levels of difficulty available when I play the game.
 
 ## <div align="center">PROTOTYPE</div>
 [(Table of contents)](#prototype)
